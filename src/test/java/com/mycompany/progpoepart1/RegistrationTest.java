@@ -20,43 +20,6 @@ public class RegistrationTest {
     public RegistrationTest() {
     }
     
-    @BeforeAll
-    public static void setUpClass() {
-    }
-    
-    @AfterAll
-    public static void tearDownClass() {
-    }
-    
-    @BeforeEach
-    public void setUp() {
-    }
-    
-    @AfterEach
-    public void tearDown() {
-    }
-
-    /**
-     * Test of main method, of class Registration.
-     */
-    @Test
-    public void testMain() {
-        System.out.println("main");
-        String[] args = null;
-        Registration.main(args);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of displayHeader method, of class Registration.
-     */
-    @Test
-    public void testDisplayHeader() {
-        System.out.println("displayHeader");
-        Registration.displayHeader();
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
+   
     
 }
